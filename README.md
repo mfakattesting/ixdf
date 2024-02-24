@@ -38,4 +38,3 @@ In the Confirm API:
    - Transaction 6: Amount 500, Cumulative Amount 1500
 
 Now, Transaction 4 passes since the cumulative amount is less than the remaining quota, while Transactions 5 and 6 fail due to quota limitations.
-# ixdf
